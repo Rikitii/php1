@@ -17,7 +17,7 @@ if ($num == 20) {
 } else if ($num == 25) {
     echo "Veinticinco";
 } else if ($num < 20) {
-    echo "El numero no es valido"
+    echo "El numero no es valido";
 } else if ($num > 25) {
-    echo "El numero no es valido"
+    echo "El numero no es valido";
 }
