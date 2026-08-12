@@ -1,6 +1,6 @@
 <?php
 
-$num = 26;
+$num =rand(20,25);
 
 echo $num . "<br>";
 
